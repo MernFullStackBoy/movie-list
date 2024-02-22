@@ -1,0 +1,14 @@
+@media screen and (max-width: 360px) {
+    #form {
+        width: 360px;
+    }
+
+    #name {
+        margin: 10px 0;
+    }
+
+    #button {
+        width: 100%;
+        margin: 0;
+    }
+}
